@@ -7,12 +7,12 @@ Also learned new features for me like dataset,blur,crypto.randomUUID and findInd
 
 ### Features
 
--Add book
--Remove ook
--Change status
+Add book
+Remove ook
+Change status
 
 ### Used
 
--HTML
--CSS
--JS
+HTML
+CSS
+JS
